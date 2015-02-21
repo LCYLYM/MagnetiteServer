@@ -1,2 +1,2 @@
 # Magnetite
-Data collection system for Unity3D
+Data collection server for Unity3D
